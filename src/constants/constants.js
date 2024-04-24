@@ -9,7 +9,7 @@ export const projects = [
     tags: ["Node.js", "Prisma", "Flutter", "GraphQL", "Pubsub"],
 
     source:
-      "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
+      "https://workaway.vercel.app/",
     visit: null,
     id: 0,
   },
@@ -24,19 +24,19 @@ export const projects = [
     tags: ["python3"],
 
     source:
-      "https://workaway.vercel.app/",
+      "https://github.com/Lucam13/Hangman",
     visit: null,
 
     id: 1,
   },
   {
-  title: "Workaway",
+  title: "Arkanoid Game",
     description:
-      "Work Away es una plataforma innovadora que permite a los profesionales y empresas encontrar y reservar espacios de trabajo remoto en todo el mundo. Con una amplia gama de características y tecnologías modernas, Work Away ofrece una experiencia fluida y conveniente para aquellos que buscan un entorno de trabajo productivo fuera de la oficina tradicional.",
+      "Arkanoid game only with HTML, Javascript and a few styles, have fun.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/workaway-91787.appspot.com/o/workaway.jpg?alt=media&token=cd22622e-ca90-48c4-a582-f1e4d94a0700",
+      "https://firebasestorage.googleapis.com/v0/b/hangman-b0fcc.appspot.com/o/arkanoid%2FArkanoid.jpg?alt=media&token=673ae73e-318b-4408-82b4-0344324f3612",
     // image: "/images/jp01.jpg",
-    tags: ["Node.js", "Prisma", "Flutter", "GraphQL", "Pubsub"],
+    tags: ["HTML","Javascript","CSS"],
 
     source:
       "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
@@ -44,13 +44,41 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Workaway",
+    title: "Calculator",
       description:
-        "The Partycade offers unique games for many occasions. Such as Birthday Dinners, Baby Showers, Bridal Showers and many more. You’ll get to enjoy a friendly fun competition with your loved ones all from your smart device. Can’t make it to the event? No worries, you can join the game room wherever you are.",
+        "Simple Online Calculator.",
       image:
-        "https://firebasestorage.googleapis.com/v0/b/workaway-91787.appspot.com/o/workaway.jpg?alt=media&token=cd22622e-ca90-48c4-a582-f1e4d94a0700",
+        "https://firebasestorage.googleapis.com/v0/b/hangman-b0fcc.appspot.com/o/Calc%2Fcalc.jpg?alt=media&token=0f503cf6-af6e-41a1-8ec6-ea9b43401962",
       // image: "/images/jp01.jpg",
-      tags: ["Node.js", "Prisma", "Flutter", "GraphQL", "Pubsub"],
+      tags: ["HTML","Javascript","CSS"],
+  
+      source:
+        "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
+      visit: null,
+      id: 0,
+    },
+  {
+    title: "Typing App Test",
+      description:
+        "a simplified version of monkeytype in HTML and Javascript. Good application to practice logic and at the same time your typing speed.",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/hangman-b0fcc.appspot.com/o/Typing%20test%2Ftyping%20game.jpg?alt=media&token=875f0e04-20a0-4b09-a0e8-db68eb18247d",
+      // image: "/images/jp01.jpg",
+      tags: ["HTML","Javascript","CSS"],
+  
+      source:
+        "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
+      visit: null,
+      id: 0,
+    },
+  {
+    title: "Look for IP",
+      description:
+        "If you want to search for information about an IP, this is your application.",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/hangman-b0fcc.appspot.com/o/lookfor-ip%2Flook%20for%20ip.jpg?alt=media&token=a9a56d75-6822-48e4-9e8f-ece1f685704b",
+      // image: "/images/jp01.jpg",
+      tags: ["HTML","Javascript","CSS"],
   
       source:
         "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
@@ -64,12 +92,12 @@ export const projects = [
 
 
 export const FiverUrl = "https://www.fiverr.com/";
-export const UpworkUrl =
+export const UpworkUrl ="https://www.upwork.com/freelancers/~01e171a46da5cc447d"
   "https://www.upwork.com/freelancers/~01e171a46da5cc447d";
-export const ResumeUrl = "";
-export const GithubUrl = "";
+export const ResumeUrl = "https://drive.google.com/file/d/1KHLwk2PMiUEqELvxU0-wGo9EwvKWZFQc/view?usp=sharing";
+export const GithubUrl = "https://github.com/Lucam13";
 export const LinkedInUrl =
-  "https://www.linkedin.com/in/";
+  "https://www.linkedin.com/in/lucio-campos-222a0218a/";
 export const FacebookUrl =
   "https://www.facebook.com/";
 export const MobileNumber = "3541527770";

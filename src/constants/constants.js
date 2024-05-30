@@ -39,7 +39,7 @@ export const projects = [
     tags: ["HTML","Javascript","CSS"],
 
     source:
-      "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
+      "https://github.com/Lucam13/Arkanoid",
     visit: null,
     id: 0,
   },
@@ -53,7 +53,7 @@ export const projects = [
       tags: ["HTML","Javascript","CSS"],
   
       source:
-        "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
+        "https://github.com/Lucam13/Calculadora",
       visit: null,
       id: 0,
     },
@@ -67,7 +67,7 @@ export const projects = [
       tags: ["HTML","Javascript","CSS"],
   
       source:
-        "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
+        "https://github.com/Lucam13/Typing-app",
       visit: null,
       id: 0,
     },
@@ -81,7 +81,21 @@ export const projects = [
       tags: ["HTML","Javascript","CSS"],
   
       source:
-        "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
+        "https://github.com/Lucam13/lookforid",
+      visit: null,
+      id: 0,
+    },
+  {
+    title: "CT&A Constructora",
+      description:
+        "If you want to search for information about an IP, this is your application.",
+      image:
+        "https://firebasestorage.googleapis.com/v0/b/hangman-b0fcc.appspot.com/o/Ct6aconstructora%2FScreenshot_2.jpg?alt=media&token=b5113226-37ab-4801-9334-77a6101a9f9c",
+      // image: "/images/jp01.jpg",
+      tags: ["Wordpress"],
+  
+      source:
+        "https://ctyaconstructora.com.ar/",
       visit: null,
       id: 0,
     },
